@@ -1,0 +1,58 @@
+├── src/
+│ ├── arrays/
+│ │ ├── TwoSum.java
+│ │ ├── ReverseArray.java
+│ │ └── MoveZeros.java
+│ │
+│ ├── strings/
+│ │ ├── AnagramCheck.java
+│ │ ├── Palindrome.java
+│ │ └── StringCompression.java
+│ │
+│ ├── linkedlist/
+│ │ ├── SinglyLinkedList.java
+│ │ ├── RemoveDuplicates.java
+│ │ └── MiddleOfList.java
+│ │
+│ ├── stack/
+│ │ ├── BalancedBrackets.java
+│ │ └── MinStack.java
+│ │
+│ ├── queue/
+│ │ ├── CircularQueue.java
+│ │ └── QueueUsingStack.java
+│ │
+│ ├── searching/
+│ │ ├── BinarySearch.java
+│ │ └── LinearSearch.java
+│ │
+│ ├── sorting/
+│ │ ├── BubbleSort.java
+│ │ ├── MergeSort.java
+│ │ ├── QuickSort.java
+│ │ └── InsertionSort.java
+│ │
+│ ├── recursion/
+│ │ ├── Factorial.java
+│ │ ├── Fibonacci.java
+│ │ └── TowerOfHanoi.java
+│ │
+│ ├── trees/
+│ │ ├── BinaryTree.java
+│ │ ├── LevelOrderTraversal.java
+│ │ └── HeightOfTree.java
+│ │
+│ ├── graphs/
+│ │ ├── GraphBFS.java
+│ │ ├── GraphDFS.java
+│ │ └── Dijkstra.java
+│ │
+│ ├── dp/
+│ │ ├── ClimbingStairs.java
+│ │ ├── LongestIncreasingSubsequence.java
+│ │ └── Knapsack01.java
+│ │
+│ └── misc/
+│ ├── NthFibonacci.java
+│ └── PrimeCheck.java
+------------------------------------------
