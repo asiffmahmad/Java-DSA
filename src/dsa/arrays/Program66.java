@@ -41,7 +41,6 @@ public class Program66 {
 				digits[i] = digits[i] + 1;
 				return digits;
 			}
-
 			digits[i] = 0;
 
 		}
