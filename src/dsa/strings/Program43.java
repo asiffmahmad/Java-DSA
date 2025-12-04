@@ -10,28 +10,25 @@ import java.math.BigInteger;
 Note: You must not use any built-in BigInteger library or convert the inputs to integer directly.
  */
 public class Program43 {
-	
-	
-	
-	
-	
+
 	public static void main(String[] args) {
-		
+
 		String num1 = "2";
-		String num2 = "3" ; 
+		String num2 = "3";
 		String result = multiply(num1, num2);
-		
+
 		System.out.println(result);
-		
+
 	}
-	    public static String multiply(String num1, String num2) {
 
-	    BigInteger a = new BigInteger(num1);
-	    BigInteger b = new BigInteger(num2);
+	public static String multiply(String num1, String num2) {
 
-	    BigInteger c = a.multiply(b);
+		BigInteger a = new BigInteger(num1);
+		BigInteger b = new BigInteger(num2);
 
-	    return c.toString();
+		BigInteger c = a.multiply(b);
+
+		return c.toString();
 	}
 
 }
