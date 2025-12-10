@@ -25,9 +25,7 @@ public class Program242 {
 	public static void main(String[] args) {
 
 		boolean result = isAnagram("anagram", "nagaram");
-
 		System.out.println(result);
-
 	}
 
 	public static boolean isAnagram(String s, String t) {
