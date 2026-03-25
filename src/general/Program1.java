@@ -23,7 +23,7 @@ public class Program1 {
 			res[i] = count;
 			count = 1;
 
-		}
+		} 
 
 		System.out.println(Arrays.toString(res));
 
